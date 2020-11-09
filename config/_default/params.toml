@@ -88,19 +88,19 @@ show_related = {book = true, page = false, post = true, project = true, publicat
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "test@example.org"
+email = "esmaeili.b@northeastern.edu"
 phone = ""
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "177 Huntington Avenue", city = "Boston", region = "MA", postcode = "02115", country = "United States", country_code = "US"}
+address = {street = "Floor 22, 177 Huntington Avenue", city = "Boston", region = "MA", postcode = "02115", country = "United States", country_code = "US"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
 coordinates = {latitude = "37.4275", longitude = "-122.1697"}
 
 # Directions for visitors to locate you.
-directions = "Floor 22"
+directions = ""
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
@@ -111,7 +111,7 @@ appointment_url = ""
 
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
-contact_links = []
+contact_links = [{icon = "twitter", icon_pack = "fab", name = "DM Me", link = "https://twitter.com/bob_smiley_"}]
 #[
 #  {icon = "twitter", icon_pack = "fab", name = "DM Me", link = "https://twitter.com/Twitter"},
 #  {icon = "skype", icon_pack = "fab", name = "Skype Me", link = "skype:echo123?call"},
