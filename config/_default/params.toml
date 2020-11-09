@@ -48,7 +48,7 @@ local_business_type = ""
 org_name = "Northeastern University"
 
 # Description for social sharing and search engines. If undefined, superuser role is used in place.
-description = "PhD Student"
+description = ""
 
 ############################
 ## Site Features
