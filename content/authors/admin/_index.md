@@ -20,8 +20,7 @@ interests:
 - Deep Generative Models
 - Representation Learning 
 - Probabilistic Programming
-- Deep Learning
-
+- Inference
 education:
   courses:
   - course: MSc in Data Science
