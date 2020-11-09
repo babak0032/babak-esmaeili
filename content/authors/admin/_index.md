@@ -70,6 +70,6 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a forth year PhD student in the Machine Learning program at Northeastern University, advised by Professor Jan-Willem van de Meent. I got my BSc in Artificial Intelligence and Computer Science at the University of Edinburgh. After that, I did a MSc in Data Science at the same University.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I am interested in deep generative models and how we can guide them towards learning disentangled and useful latent variables. Similarly, I am interested in deep representation leaning, especially the approaches that are motivated by information theory. I am also a fan of probabilistic programming which provides exciting opportunities for abstracting probabilistic models and making inference easier.
