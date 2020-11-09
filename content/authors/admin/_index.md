@@ -72,4 +72,4 @@ user_groups:
 
 I am a forth year PhD student in the Machine Learning program at Northeastern University, advised by Professor Jan-Willem van de Meent. I got my BSc in Artificial Intelligence and Computer Science at the University of Edinburgh. After that, I did a MSc in Data Science at the same University.
 
-I am interested in deep generative models and how we can guide them towards learning disentangled and useful latent variables. Similarly, I am interested in deep representation leaning, especially the approaches that are motivated by information theory. I am also a fan of probabilistic programming which provides exciting opportunities for abstracting probabilistic models and making inference easier.
+I am interested in deep generative models and how we can guide them towards learning useful representations. Similarly, I am also interested in deep representation leaning, particularly the approaches that are motivated by information theory. I am also a fan of probabilistic programming as I think it provides exciting opportunities for abstracting probabilistic models and making inference easier.
