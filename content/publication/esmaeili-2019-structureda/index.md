@@ -14,7 +14,7 @@ date: '2019-01-01'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2020-11-09T23:44:32.619259Z'
+publishDate: ''
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -23,7 +23,7 @@ publishDate: '2020-11-09T23:44:32.619259Z'
 publication_types:
 - '1'
 publication: '*The 22nd International Conference on Artificial Intelligence and Statistics*'
-publication_short: In *STC*
+publication_short: In *22nd AISTATS*
 
 abstract: 'Deep latent-variable models learn representations of high-dimensional data in an unsupervised manner. A number of recent efforts have focused on learning representations that disentangle statistically independent axes of variation by introducing modifications to the standard objective function. These approaches generally assume a simple diagonal Gaussian prior and as a result are not able to reliably disentangle discrete factors of variation. We propose a two-level hierarchical objective to
 control relative degree of statistical independence between blocks of variables and individual variables within blocks. We derive this objective as a generalization of the evidence lower bound, which allows us to explicitly represent the trade-offs between mutual information between data and representation, KL divergence between representation
@@ -35,7 +35,7 @@ and prior, and coverage of the support of the empirical data distribution. Exper
 #   ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-- Source Themes
+- AISTATS
 featured: true
 
 
