@@ -5,7 +5,7 @@ authors:
 - Hongyi Huang
 - Byron C. Wallace
 - Jan-Willem van de Meent
-date: ""
+date: "2019-01-01"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -62,4 +62,3 @@ projects: []
 #   Otherwise, set `slides: ""`.
 slides: example
 ---
-
