@@ -1,5 +1,5 @@
 ---
-title: Structured disentangled representations
+title: Structured Disentangled Representations
 authors:
 - Babak Esmaeili
 - Hao Wu
