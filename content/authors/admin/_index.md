@@ -14,11 +14,11 @@ organizations:
   url: "https://www.khoury.northeastern.edu/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include deep generative models, representation learning and probabilistic programming.
 
 interests:
 - Deep Generative Models
-- Representation Learning 
+- Representation Learning
 - Probabilistic Programming
 - Inference
 education:
@@ -69,6 +69,6 @@ user_groups:
 - Visitors
 ---
 
-I am a forth year PhD student in the Machine Learning program at Northeastern University, advised by Professor Jan-Willem van de Meent. I got my BSc in Artificial Intelligence and Computer Science at the University of Edinburgh. After that, I did a MSc in Data Science at the same University.
+I am a forth year PhD student in the Machine Learning program at Northeastern University, advised by Professor Jan-Willem van de Meent. I got my BSc in Artificial Intelligence and Computer Science at the University of Edinburgh. After that, I did an MSc in Data Science at the same University.
 
-I am interested in deep generative models and how we can guide them towards learning useful representations. Similarly, I am also interested in deep representation leaning, particularly the approaches that are motivated by information theory. I am also a fan of probabilistic programming as I think it provides exciting opportunities for abstracting probabilistic models and making inference easier.
+I am interested in deep generative models and how we can guide them towards learning better representations. For similar reasons, I am also interested in representation leaning, particularly the approaches that are inspired by information theory. I am also a fan of probabilistic programming which provides exciting opportunities for abstracting probabilistic models, as well as improving efficiency in inference.
