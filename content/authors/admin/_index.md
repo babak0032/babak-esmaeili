@@ -10,8 +10,8 @@ role: PhD Student
 
 # Organizations/Affiliations
 organizations:
-- name: Northeastern University, Khoury College of Computer Sciences
-  url: "https://www.khoury.northeastern.edu/"
+- name: Amsterdam Machine Learning lab
+  url: "https://amlab.science.uva.nl/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include deep generative models, representation learning and probabilistic programming.

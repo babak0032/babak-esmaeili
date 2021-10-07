@@ -45,7 +45,7 @@ local_business_type = ""
 
 # Organization name (optional)
 # Enter an organization or project name. Defaults to the site title from `config.toml`.
-org_name = "Northeastern University"
+org_name = "University of Amsterdam"
 
 # Description for social sharing and search engines. If undefined, superuser role is used in place.
 description = ""
@@ -88,12 +88,12 @@ show_related = {book = false, page = false, post = false, project = false, publi
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "esmaeili.b@northeastern.edu"
+email = "b.esmaeili@uva.nl"
 phone = ""
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "22nd Floor, 177 Huntington Avenue", city = "Boston", region = "MA", postcode = "02115", country = "United States", country_code = "US"}
+address = {street = "Science Park 904, Room C3.154d", city = "Amsterdam", region = "North Holland", postcode = "1098 XH", country = "Netherlands"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
