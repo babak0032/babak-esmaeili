@@ -7,7 +7,7 @@ authors:
 - Dana H. Brooks
 - Jennifer G. Dy
 - Jan-Willem van de Meent
-date: "2020-07-07"
+date: "2021-3-25"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -42,7 +42,7 @@ url_poster: ''
 url_project: ''
 url_slides: ''
 url_source: ''
-url_video: ''
+url_video: https://virtual.aistats.org/virtual/2021/poster/1982
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

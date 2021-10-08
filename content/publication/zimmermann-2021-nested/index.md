@@ -4,9 +4,8 @@ authors:
 - Heiko Zimmermann
 - Hao Wu
 - Babak Esmaeili
-- Sam Stites
 - Jan-Willem van de Meent
-date: "2021-01-10"
+date: "2021-6-21"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -19,11 +18,10 @@ publishDate: ""
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "3rd Symposium on Advances in Approximate Bayesian Inference"
-publication_short: In *3rd AABI*
+publication: "Advances in Neural Information Processing Systems"
+publication_short: NeurIPS
 
-abstract: 'We develop nested variational inference (NVI), a family of methods that learn proposals for nested importance samplers by minimizing an inclusive or exclusive KL divergence at each
-level of nesting. NVI is applicable to many commonly-used importance sampling strategies and additionally provides a mechanism for learning intermediate densities, which can serve as heuristics to guide the sampler. Our experiments apply NVI to learn samplers targeting (a) an unnormalized density using annealing and (b) the posterior of a hidden Markov model. We observe improved sample quality in terms of log average weight and effective sample size'
+abstract: 'We develop nested variational inference (NVI), a family of methods that learn proposals for nested importance samplers by minimizing an forward or reverse KL divergence at each level of nesting. NVI is applicable to many commonly-used importance sampling strategies and provides a mechanism for learning intermediate densities, which can serve as heuristics to guide the sampler. Our experiments apply NVI to (a) sample from a multimodal distribution using a learned annealing path (b) learn heuristics that approximate the likelihood of future observations in a hidden Markov model and (c) to perform amortized inference in hierarchical deep generative models. We observe that optimizing nested objectives leads to improved sample quality in terms of log average weight and effective sample size.'
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -31,11 +29,11 @@ level of nesting. NVI is applicable to many commonly-used importance sampling st
 # tags:
 # - Source Themes
 tags:
-- AABI
+- NeurIPS
 featured: false
 
 
-url_pdf: https://openreview.net/pdf/f8e2518b938638cb5c219e19438ac815f02a7554.pdf
+url_pdf: https://arxiv.org/pdf/2106.11302.pdf
 url_code: ''
 url_dataset: ''
 url_poster: ''

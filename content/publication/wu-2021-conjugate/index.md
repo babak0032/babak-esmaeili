@@ -6,7 +6,7 @@ authors:
 - Michael Wick
 - Jean-Baptiste Tristan
 - Jan-Willem van de Meent
-date: "2021-01-10"
+date: "2021-07-18"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -19,8 +19,8 @@ publishDate: ""
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "3rd Symposium on Advances in Approximate Bayesian Inference"
-publication_short: In *3rd AABI*
+publication: "Proceedings of the 38th International Conference on Machine Learning"
+publication_short: ICML 2021
 
 abstract: 'We propose conjugate energy-based models (EBMs), a class of deep latent-variable models with a tractable posterior. Conjugate EBMs have similar use cases as variational autoencoders, in the sense that they learn an unsupervised mapping between data and latent variables. However these models omit a generator, which allows them to learn more flexible notions of similarity between data points. Our experiments demonstrate that conjugate EBMs achieve competitive results in terms of image modelling, predictive power of latent space, and out-of-distribution detection on a variety of datasets.'
 
@@ -30,18 +30,18 @@ abstract: 'We propose conjugate energy-based models (EBMs), a class of deep late
 # tags:
 # - Source Themes
 tags:
-- AABI
-featured: false
+- ICML
+featured: true
 
 
-url_pdf: https://openreview.net/pdf/36ac6d128e9e82349e4e8f318b26b659f9fe2512.pdf
+url_pdf: http://proceedings.mlr.press/v139/wu21a/wu21a.pdf
 url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
-url_slides: ''
+url_slides: https://icml.cc/media/icml-2021/Slides/10361.pdf
 url_source: ''
-url_video: https://www.youtube.com/watch?v=1SMaKykE4oE&t=367s&ab_channel=HaoWu
+url_video: https://iclr.cc/virtual/2021/workshop/2140
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
