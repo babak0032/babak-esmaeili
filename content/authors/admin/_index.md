@@ -43,7 +43,7 @@ social:
   link: https://twitter.com/bob_smiley_
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.com/citations?user=Sxgjz3QAAAAJ&hl=en
+  link: https://scholar.google.com/citations?hl=en&user=cBD6liwAAAAJ
 - icon: github
   icon_pack: fab
   link: https://github.com/babak0032/
