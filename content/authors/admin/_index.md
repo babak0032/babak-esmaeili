@@ -6,12 +6,12 @@ title: Babak Esmaeili
 superuser: true
 
 # Role/position
-role: PhD Student
+role: Postdoc
 
 # Organizations/Affiliations
 organizations:
-- name: Amsterdam Machine Learning lab
-  url: "https://amlab.science.uva.nl/"
+- name: Generative AI group at TU/e
+  url: "https://generativeai-tue.github.io/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include deep generative models, representation learning and probabilistic programming.
@@ -23,6 +23,9 @@ interests:
 - Inference
 education:
   courses:
+  - course: PhD in Machine Learning
+    institution: University of Amsterdam
+    year: 2023
   - course: MSc in Data Science
     institution: University of Edinburgh
     year: 2017
@@ -69,6 +72,6 @@ user_groups:
 - Visitors
 ---
 
-I am a PhD student at the [AMLab](https://amlab.science.uva.nl/), advised by Professor [Jan-Willem van de Meent](https://jwvdm.github.io/). I started my PhD at Northeastern University where I was for 4 years before transferring to University of Amsterdam. I got my MSc in Data Science at the University of Edinburgh. I did my BSc in Artificial Intelligence and Computer Science at the same University.
+I am postdoc at [Generative AI group at the Eindhoven University of Technology (TU/e)](https://generativeai-tue.github.io/), advised by [Jakub M. Tomczak](https://jmtomczak.github.io/). I did my PhD at [AMLab](https://amlab.science.uva.nl/) at University of Amsterdam where I was advised by [Jan-Willem van de Meent](https://jwvdm.github.io/). I started my PhD at Northeastern University where I was for 4 years before transferring to University of Amsterdam. I got my MSc in Data Science at the University of Edinburgh. I did my BSc in Artificial Intelligence and Computer Science at the same University.
 
 I am interested in deep generative models and how we can guide them towards learning useful representations for downstream tasks. I am also interested in the intersection of information theory and representation learning. I am also a big fan of probabilistic programming which provides many cool opportunities for abstracting probabilistic models and inference.
