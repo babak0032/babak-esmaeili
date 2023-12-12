@@ -88,16 +88,16 @@ show_related = {book = false, page = false, post = false, project = false, publi
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "b.esmaeili@uva.nl"
+email = "b.esmaeili@tue.nl"
 phone = ""
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "Science Park 904, Room C3.154d", city = "", region = "Amsterdam", postcode = "1098 XH", country = "Netherlands"}
+address = {street = "MetaForum, city = "Eindhoven", region = "", postcode = "5612 AZ", country = "Netherlands"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "37.4275", longitude = "-122.1697"}
+coordinates = {latitude = "51.44699894451326", longitude = "5.48742925342234"}
 
 # Directions for visitors to locate you.
 directions = ""

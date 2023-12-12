@@ -14,12 +14,12 @@ organizations:
   url: "https://generativeai-tue.github.io/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include deep generative models, representation learning and probabilistic programming.
+bio: My research interests include deep generative models, quantization, and representation learning.
 
 interests:
 - Deep Generative Models
+- Quantization
 - Representation Learning
-- Probabilistic Programming
 - Inference
 education:
   courses:
@@ -74,4 +74,4 @@ user_groups:
 
 I am a postdoc at [Generative AI group at the Eindhoven University of Technology (TU/e)](https://generativeai-tue.github.io/), advised by [Jakub M. Tomczak](https://jmtomczak.github.io/). I did my PhD at [AMLab](https://amlab.science.uva.nl/) at the University of Amsterdam where I was advised by [Jan-Willem van de Meent](https://jwvdm.github.io/). I started my PhD at Northeastern University where I was for 4 years before transferring to University of Amsterdam. I got my MSc in Data Science at the University of Edinburgh. I did my BSc in Artificial Intelligence and Computer Science at the same University.
 
-I am interested in deep generative models and how we can guide them towards learning useful representations for downstream tasks. I am also interested in the intersection of information theory and representation learning. I am also a big fan of probabilistic programming which provides many cool opportunities for abstracting probabilistic models and inference.
+I am interested in deep generative models and how we can guide them towards learning useful representations for downstream tasks. Recently, I also became very interested in making generative models more space efficient via quantization. I am also a big fan of the intersection of information theory and representation learning. 
