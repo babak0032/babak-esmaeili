@@ -10,8 +10,8 @@ role: Postdoc
 
 # Organizations/Affiliations
 organizations:
-- name: Generative AI group at TU/e
-  url: "https://generativeai-tue.github.io/"
+- name: Amsterdam Machine Learning Lab
+  url: "https://amlab.science.uva.nl/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include deep generative models, quantization, and representation learning.
@@ -24,7 +24,7 @@ interests:
 - Inference
 education:
   courses:
-  - course: PostDoc
+  - course: Postdoc
     institution: Eindhoven University of Technology (TU/e)
     year: 2025
   - course: PhD
