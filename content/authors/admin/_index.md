@@ -17,13 +17,17 @@ organizations:
 bio: My research interests include deep generative models, quantization, and representation learning.
 
 interests:
+- AI for Fluid Dynamics 
 - Deep Generative Models
 - Quantization
 - Representation Learning
 - Inference
 education:
   courses:
-  - course: PhD in Machine Learning
+  - course: PostDoc
+    institution: Eindhoven University of Technology (TU/e)
+    year: 2025
+  - course: PhD
     institution: University of Amsterdam
     year: 2023
   - course: MSc in Data Science
@@ -71,7 +75,6 @@ user_groups:
 - Researchers
 - Visitors
 ---
+I am a postdoctoral researcher at the [Amsterdam Machine Learning Lab (AMLab)](https://amlab.science.uva.nl/) at the University of Amsterdam, working with [Jan-Willem van de Meent](https://jwvdm.github.io/) on scientific machine learning. Previously, I was a postdoc at the [Generative AI group at Eindhoven University of Technology](https://generativeai-tue.github.io/), working with [Jakub M. Tomczak](https://jmtomczak.github.io/) on neural network quantization. I obtained my PhD from the University of Amsterdam, after starting my doctoral studies at Northeastern University, and hold an MSc in Data Science and a BSc in Artificial Intelligence and Computer Science from the University of Edinburgh.
 
-I am a postdoc at [Generative AI group at the Eindhoven University of Technology (TU/e)](https://generativeai-tue.github.io/), advised by [Jakub M. Tomczak](https://jmtomczak.github.io/). I did my PhD at [AMLab](https://amlab.science.uva.nl/) at the University of Amsterdam where I was advised by [Jan-Willem van de Meent](https://jwvdm.github.io/). I started my PhD at Northeastern University where I was for 4 years before transferring to University of Amsterdam. I got my MSc in Data Science at the University of Edinburgh. I did my BSc in Artificial Intelligence and Computer Science at the same University.
-
-I am interested in deep generative models and how we can guide them towards learning useful representations for downstream tasks. Recently, I also became very interested in making generative models more space efficient via quantization. I am also a big fan of the intersection of information theory and representation learning. 
+My research interests broadly lie at the intersection of **generative modeling, efficient machine learning, and scientific AI**. I am particularly interested in making machine learning more efficient in terms of data, memory, and computation, through representation learning, quantization, and simulation-driven optimization.

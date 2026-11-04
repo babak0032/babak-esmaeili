@@ -88,7 +88,7 @@ show_related = {book = false, page = false, post = false, project = false, publi
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "esmaeili.32@gmail.com"
+email = "b.esmaeili@uva.nl"
 phone = ""
 
 # Address
